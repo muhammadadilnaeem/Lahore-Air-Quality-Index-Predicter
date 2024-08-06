@@ -46,19 +46,13 @@ https://github.com/user-attachments/assets/f566142c-d9f1-4a5f-b544-6149c41a07ac
     - Prepare your dataset and place it in the `data` directory.
     - Run the data preprocessing script:
         ```bash
-        python preprocess.py
+        python compute_features.py
         ```
 
 2. **Model Training**:
     - Train the models using the training script:
         ```bash
-        python train.py
-        ```
-
-3. **Prediction**:
-    - Make predictions using the trained model:
-        ```bash
-        python predict.py
+        python train_model.py
         ```
 
 4. **Web Application**:
@@ -71,7 +65,7 @@ https://github.com/user-attachments/assets/f566142c-d9f1-4a5f-b544-6149c41a07ac
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/muhammadadilnaeem/Lahore-Air-Quality-Index-Predicter/blob/main/LICENSE) file for details.
 
 ## Contact 📧
 
