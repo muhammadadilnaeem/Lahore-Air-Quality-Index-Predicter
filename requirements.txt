@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+numpy
+ipykernel
+seaborn
+matplotlib
+folium
+streamlit-folium
+scikit-learn
+xgboost
+streamlit
+
